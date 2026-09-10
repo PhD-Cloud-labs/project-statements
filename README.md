@@ -27,6 +27,6 @@ Instead of depending only on commercial public cloud providers such as AWS, Azur
 
 These bachelor projects will contribute to the first working version of the platform.
 
-Project 1 - Teacher laboratory provisioning [Project 1](./project1/project-teacher-labs.md)
+Project 1 - [Teacher laboratory provisioning](./project1/project-teacher-labs.md)
 
-Project 2 - Student laboratory portal [Project 2](./project2/project-student-laboratory.md)
+Project 2 - [Student laboratory portal](./project2/project-student-laboratory.md)
