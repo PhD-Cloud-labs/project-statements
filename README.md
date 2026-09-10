@@ -26,3 +26,7 @@ The platform will use **OpenStack** as the cloud environment. OpenStack allows t
 Instead of depending only on commercial public cloud providers such as AWS, Azure, or Google Cloud, this research explores how universities can use self-hosted open-source cloud infrastructure for practical cloud computing education.
 
 These bachelor projects will contribute to the first working version of the platform.
+
+Project 1 - Teacher laboratory provisioning [Project 1](./project1/project-teacher-labs.md)
+
+Project 2 - Student laboratory portal [Project 2](./project2/project-student-laboratory.md)
