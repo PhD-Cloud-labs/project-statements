@@ -257,27 +257,7 @@ The portal should clearly explain how the student accesses the cloud environment
 
 ## Expected Architecture
 
-```text
-Student
-   │
-   ▼
-Student Laboratory Portal
-   │
-   ├── Student dashboard
-   ├── Assigned labs
-   ├── Lab instructions
-   ├── Start/stop/reset actions
-   ├── Task checklist
-   ├── Progress view
-   └── Completion status
-   │
-   ▼
-Project 1
-Teacher Lab Authoring and Provisioning
-   │
-   ▼
-OpenStack Lab Environment
-```
+![architecture](project2.png)
 
 ---
 
