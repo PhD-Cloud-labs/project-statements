@@ -348,27 +348,6 @@ These events may later support learning analytics and AI-supported feedback.
 
 ---
 
-## Expected Deliverables
-
-At the end of the project, students should deliver:
-
-- A working student-facing web portal
-- Student dashboard
-- Assigned labs view
-- Laboratory instruction page
-- Start/stop/reset lab actions
-- Task checklist
-- Progress view
-- Submission/completion status
-- Integration with Project 1
-- Database model
-- API documentation
-- Installation instructions
-- User documentation
-- Final demonstration
-
----
-
 ## Example Final Demonstration
 
 The final demonstration could show:
