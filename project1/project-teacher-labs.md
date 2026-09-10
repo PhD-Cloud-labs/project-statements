@@ -225,30 +225,7 @@ Examples:
 
 ## Expected Architecture
 
-```text
-Teacher
-   │
-   ▼
-Teacher Lab Authoring Platform
-   │
-   ├── Lab templates
-   ├── Resource definitions
-   ├── Student assignment
-   ├── Provisioning requests
-   └── Lab lifecycle management
-   │
-   ▼
-OpenStack
-   │
-   ├── Keystone
-   ├── Nova
-   ├── Neutron
-   ├── Glance
-   └── Horizon
-   │
-   ▼
-Student Lab Environments
-```
+![architecture](./project 1.png)
 
 ---
 
