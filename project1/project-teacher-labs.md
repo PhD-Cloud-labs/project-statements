@@ -225,7 +225,7 @@ Examples:
 
 ## Expected Architecture
 
-![architecture](./project 1.png)
+![architecture](./project1.png)
 
 ---
 
